@@ -1,0 +1,28 @@
+name: Mr Mikes pizza
+favicon: null
+layout_spectrum: 0.9780633668415248
+typography_spectrum: 0.6011087934020907
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5
+  lightness: 0.24014601693488657
+  saturation: 0.8266667434945703
+  rhythmicContrast: 0.7486831173300743
+purpose: []
