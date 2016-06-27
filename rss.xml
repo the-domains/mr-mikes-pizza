@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mr Mikes pizza]]></title>
         <description><![CDATA[Mr Mikes pizza]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mr-mikes-pizza/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 03:38:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 27 Jun 2016 03:43:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mr-mikes-pizza/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cheese-less Pizza  ]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2151ac4-f2ec-43ad-927f-e5a66931fc97.jpg">]]></description>
-            <link>undefinedcheese-less-pizza/index.html</link>
+            <link>https://thegrid.ai/mr-mikes-pizza/cheese-less-pizza/index.html</link>
             <guid isPermaLink="false">bdf58d13-2cf8-4393-bc30-e3e4e1ff88bf</guid>
-            <pubDate>Mon, 27 Jun 2016 03:38:33 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2016 03:42:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
