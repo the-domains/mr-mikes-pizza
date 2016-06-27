@@ -1,6 +1,6 @@
 name: Mr Mikes pizza
 favicon: null
-layout_spectrum: 0.14702
+layout_spectrum: 0.9780633668415248
 typography_spectrum: 0.6011087934020907
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5
+  brandStrength: 0.18747991789132357
   lightness: 0.24014601693488657
   saturation: 0.8266667434945703
   rhythmicContrast: 0.7486831173300743
